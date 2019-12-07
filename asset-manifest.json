@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/multibate/static/css/main.d0888357.chunk.css",
+    "main.js": "/multibate/static/js/main.891199c9.chunk.js",
+    "main.js.map": "/multibate/static/js/main.891199c9.chunk.js.map",
+    "runtime~main.js": "/multibate/static/js/runtime~main.1f80ef2c.js",
+    "runtime~main.js.map": "/multibate/static/js/runtime~main.1f80ef2c.js.map",
+    "static/css/2.8d60e27b.chunk.css": "/multibate/static/css/2.8d60e27b.chunk.css",
+    "static/js/2.e85bfee0.chunk.js": "/multibate/static/js/2.e85bfee0.chunk.js",
+    "static/js/2.e85bfee0.chunk.js.map": "/multibate/static/js/2.e85bfee0.chunk.js.map",
+    "index.html": "/multibate/index.html",
+    "precache-manifest.48ea04197a5590bd23bcab00a4e81e57.js": "/multibate/precache-manifest.48ea04197a5590bd23bcab00a4e81e57.js",
+    "service-worker.js": "/multibate/service-worker.js",
+    "static/css/2.8d60e27b.chunk.css.map": "/multibate/static/css/2.8d60e27b.chunk.css.map",
+    "static/css/main.d0888357.chunk.css.map": "/multibate/static/css/main.d0888357.chunk.css.map",
+    "static/media/semantic.min.css": "/multibate/static/media/outline-icons.ef60a4f6.woff"
+  }
+}
