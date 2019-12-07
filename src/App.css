@@ -1,0 +1,21 @@
+#app {
+  margin-top: 2em;
+  padding: 1em;
+}
+
+#addForm {
+  margin: 0 auto;
+  margin-bottom: 2em;
+}
+
+.button {
+  cursor: pointer;
+}
+
+.closeBtn {
+  position: fixed;
+  cursor: pointer;
+  top: 50px;
+  right: 0;
+  color: white;
+}
